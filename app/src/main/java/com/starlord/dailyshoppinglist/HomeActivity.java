@@ -47,7 +47,7 @@ public class HomeActivity extends AppCompatActivity {
     private RecyclerView recyclerView;
     FirebaseRecyclerAdapter<Data,MyViewHolder> adapter;
 
-    //global variables
+    //global data variables
     private String type, note;
     private int amount;
     private String post_key;
