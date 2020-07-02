@@ -23,11 +23,3 @@ Clone the project in Android Studio or simply download the zip file.
 ## Download APK
 To test the app directly on your phone download and install app from below link.
 [Download apk file](https://drive.google.com/file/d/1shK3Rurs_mOEr2VRPflVreyYtVuvn0CW/view?usp=sharing)
-
-
-![JpFmNt.jpg](https://iili.io/JpFmNt.jpg)
-![JpFbRI.jpg](https://iili.io/JpFbRI.jpg)
-![JpFpDX.jpg](https://iili.io/JpFpDX.jpg)
-![JpFDHN.jpg](https://iili.io/JpFDHN.jpg)
-![JpK9xn.jpg](https://iili.io/JpK9xn.jpg)
-![JpKHVs.jpg](https://iili.io/JpKHVs.jpg)
