@@ -26,3 +26,6 @@ Clone the project in Android Studio or simply download the zip file.
 ## Download APK
 To test the app directly on your phone download and install app from below link.
 [Download apk file](https://drive.google.com/file/d/1shK3Rurs_mOEr2VRPflVreyYtVuvn0CW/view?usp=sharing)
+
+## Contribution
+If you have thought of adding some features or removing any bug then you are most welcome to **Contribute.**
